@@ -6,4 +6,5 @@
     <mayForecastManagerShare>false</mayForecastManagerShare>
     <name>SVP, Customer Service &amp; Support</name>
     <opportunityAccessLevel>Edit</opportunityAccessLevel>
+    <parentRole>CustomerSupportNorthAmerica</parentRole>
 </Role>

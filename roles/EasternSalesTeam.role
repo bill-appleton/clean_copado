@@ -6,4 +6,5 @@
     <mayForecastManagerShare>false</mayForecastManagerShare>
     <name>Eastern Sales Team</name>
     <opportunityAccessLevel>Edit</opportunityAccessLevel>
+    <parentRole>DirectorDirectSales</parentRole>
 </Role>
