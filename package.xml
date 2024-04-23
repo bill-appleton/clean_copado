@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>All_Users</members>
-        <members>Example_Group</members>
-        <members>Role_based_group</members>
-        <members>Sample_Group</members>
-        <members>Some_users</members>
-        <members>brandnew</members>
-        <members>unused_group</members>
-        <name>Group</name>
+        <members>anotherole</members>
+        <name>Role</name>
     </types>
     <version>60.0</version>
 </Package>
