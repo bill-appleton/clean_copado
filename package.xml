@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Assistant</members>
+        <members>CEO</members>
+        <members>CFO</members>
+        <members>COO</members>
+        <members>ChannelSalesTeam</members>
+        <members>CustomerSupportInternational</members>
+        <members>CustomerSupportNorthAmerica</members>
+        <members>DirectorChannelSales</members>
+        <members>DirectorDirectSales</members>
+        <members>EasternSalesTeam</members>
+        <members>Eastern_Region</members>
+        <members>Engineers</members>
+        <members>InstallationRepairServices</members>
+        <members>JavaProgrammers</members>
+        <members>Manager</members>
+        <members>Manager732952</members>
+        <members>MarketingTeam</members>
+        <members>SVPCustomerServiceSupport</members>
+        <members>SVPHumanResources</members>
+        <members>SVPSalesMarketing</members>
+        <members>SVP_Customer_Experience</members>
+        <members>Salesman</members>
+        <members>VPInternationalSales</members>
+        <members>VPMarketing</members>
+        <members>VPNorthAmericanSales2</members>
+        <members>VPSales</members>
+        <members>VPTechnology</members>
+        <members>Webmasters</members>
+        <members>WesternRegion</members>
+        <members>WesternSalesTeam</members>
+        <name>Role</name>
+    </types>
+    <version>60.0</version>
+</Package>
